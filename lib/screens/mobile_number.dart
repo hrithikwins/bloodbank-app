@@ -1,7 +1,9 @@
+// ignore_for_file: avoid_unnecessary_containers, duplicate_ignore, sized_box_for_whitespace, prefer_const_constructors
 // ignore_for_file: avoid_unnecessary_containers, duplicate_ignore, sized_box_for_whitespace
 
 import 'dart:developer';
 
+import 'dart:developer';
 import 'package:bloodbank_app/constants/colors.dart';
 import 'package:bloodbank_app/constants/routes.dart';
 import 'package:flutter/material.dart';
@@ -98,7 +100,6 @@ class LoginScreen extends StatelessWidget {
                   ],
                 ),
               ),
-
               // add some spacing
               const SizedBox(
                 height: 67,
